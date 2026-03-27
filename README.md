@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Alice Riccelle!
+# Olá, eu sou a <span style="color:#ff69b4;">Alice Riccelle</span> 💖👩‍💻✨
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=20&center=true&vCenter=true&width=500&lines=🎓+Estudante+de+Desenvolvimento+de+Sistemas+no+SENAC;💡+Sempre+aprendendo+sobre+programação+e+tecnologia;🚀+Evoluindo+e+construindo+projetos+cada+vez+melhores" />
