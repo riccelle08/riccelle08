@@ -1,8 +1,8 @@
 # 👩‍💻 Olá, eu sou a Alice Riccelle!
 
-🎓 Estudante do curso técnico em **Desenvolvimento de Sistemas** pelo SENAC
-💡 Em constante aprendizado sobre programação e tecnologia 
-🚀 Buscando evoluir e construir projetos cada vez melhores
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=20&center=true&vCenter=true&width=500&lines=🎓+Estudante+de+Desenvolvimento+de+Sistemas+no+SENAC;💡+Sempre+aprendendo+sobre+programação+e+tecnologia;🚀+Evoluindo+e+construindo+projetos+cada+vez+melhores" />
+</p>
 
 ---
 
@@ -45,22 +45,8 @@ Estou no início da minha jornada, mas com muita vontade de aprender, crescer e 
 
 ## 📫 Como me encontrar
 
-* GitHub: https://github.com/riccelle08
+* GitHub: [https://github.com/riccelle08](https://github.com/riccelle08)
 
 ---
 
 ✨ Obrigada por visitar meu perfil!
-<!--
-**riccelle08/riccelle08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
